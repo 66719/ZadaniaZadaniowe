@@ -1,0 +1,17 @@
+{
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Git",
+    "Responsive Web Design",
+    "Podstawy React"
+  ],
+  "projects": [
+    "Portfolio online – strona CV",
+    "Aplikacja To-Do",
+    "Sklep internetowy",
+    "Mini blog projekt",
+    "Kalkulator webowy"
+  ]
+}
